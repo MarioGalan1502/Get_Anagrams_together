@@ -1,0 +1,486 @@
+C:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/tendencias_anagram.deps.json
+C:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/tendencias_anagram.runtimeconfig.json
+C:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/tendencias_anagram.runtimeconfig.dev.json
+C:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/tendencias_anagram.dll
+C:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/tendencias_anagram.pdb
+C:/Users/Euxen/source/repos/tendencias_anagram/obj/Debug/netcoreapp3.1/tendencias_anagram.csprojAssemblyReference.cache
+C:/Users/Euxen/source/repos/tendencias_anagram/obj/Debug/netcoreapp3.1/tendencias_anagram.AssemblyInfoInputs.cache
+C:/Users/Euxen/source/repos/tendencias_anagram/obj/Debug/netcoreapp3.1/tendencias_anagram.AssemblyInfo.cs
+C:/Users/Euxen/source/repos/tendencias_anagram/obj/Debug/netcoreapp3.1/tendencias_anagram.csproj.CoreCompileInputs.cache
+C:/Users/Euxen/source/repos/tendencias_anagram/obj/Debug/netcoreapp3.1/tendencias_anagram.dll
+C:/Users/Euxen/source/repos/tendencias_anagram/obj/Debug/netcoreapp3.1/tendencias_anagram.pdb
+C:/Users/Euxen/source/repos/tendencias_anagram/obj/Debug/netcoreapp3.1/tendencias_anagram.genruntimeconfig.cache
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/nunit.engine.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/testhost.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/nunit.framework.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Euxen/source/repos/tendencias_anagram/obj/Debug/netcoreapp3.1/tendencias_anagram.csproj.CopyComplete
+/home/alejandro/Documents/anagrams/dummy-anagrams/obj/Debug/netcoreapp3.1/tendencias_anagram.csprojAssemblyReference.cache
+/home/alejandro/Documents/anagrams/dummy-anagrams/obj/Debug/netcoreapp3.1/tendencias_anagram.AssemblyInfoInputs.cache
+/home/alejandro/Documents/anagrams/dummy-anagrams/obj/Debug/netcoreapp3.1/tendencias_anagram.AssemblyInfo.cs
+/home/alejandro/Documents/anagrams/dummy-anagrams/obj/Debug/netcoreapp3.1/tendencias_anagram.csproj.CoreCompileInputs.cache
+/home/alejandro/Documents/anagrams/dummy-anagrams/obj/Debug/netcoreapp3.1/tendencias_anagram.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/obj/Debug/netcoreapp3.1/tendencias_anagram.pdb
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/nunit.engine.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/tendencias_anagram.deps.json
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/tendencias_anagram.runtimeconfig.json
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/tendencias_anagram.runtimeconfig.dev.json
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/tendencias_anagram.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/tendencias_anagram.pdb
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/testhost.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/nunit.framework.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/alejandro/Documents/anagrams/dummy-anagrams/obj/Debug/netcoreapp3.1/tendencias_anagram.csproj.CopyComplete
+/home/alejandro/Documents/anagrams/dummy-anagrams/obj/Debug/netcoreapp3.1/tendencias_anagram.genruntimeconfig.cache
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\tendencias_anagram.deps.json
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\tendencias_anagram.runtimeconfig.json
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\tendencias_anagram.runtimeconfig.dev.json
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\tendencias_anagram.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\tendencias_anagram.pdb
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\obj\Debug\netcoreapp3.1\tendencias_anagram.csprojAssemblyReference.cache
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\obj\Debug\netcoreapp3.1\tendencias_anagram.csproj.CoreCompileInputs.cache
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\obj\Debug\netcoreapp3.1\tendencias_anagram.AssemblyInfoInputs.cache
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\obj\Debug\netcoreapp3.1\tendencias_anagram.AssemblyInfo.cs
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\obj\Debug\netcoreapp3.1\tendencias_anagram.csproj.CopyComplete
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\obj\Debug\netcoreapp3.1\tendencias_anagram.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\obj\Debug\netcoreapp3.1\tendencias_anagram.pdb
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\obj\Debug\netcoreapp3.1\tendencias_anagram.genruntimeconfig.cache
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\obj\Debug\netcoreapp3.1\tendencias_anagram.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\obj\Debug\netcoreapp3.1\tendencias_anagram.pdb
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\KataAnagram.exe
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\tendencias_anagram.deps.json
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\tendencias_anagram.runtimeconfig.json
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\tendencias_anagram.runtimeconfig.dev.json
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\tendencias_anagram.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\tendencias_anagram.pdb
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\KataAnagram.dll
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\KataAnagram.pdb
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\obj\Debug\netcoreapp3.1\tendencias_anagram.csprojAssemblyReference.cache
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\obj\Debug\netcoreapp3.1\tendencias_anagram.csproj.CoreCompileInputs.cache
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\obj\Debug\netcoreapp3.1\tendencias_anagram.AssemblyInfoInputs.cache
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\obj\Debug\netcoreapp3.1\tendencias_anagram.AssemblyInfo.cs
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\obj\Debug\netcoreapp3.1\tendencias_anagram.csproj.CopyComplete
+C:\Code\Tendencias Lab\Practica 6\Git\dummy-anagrams\Tests\obj\Debug\netcoreapp3.1\tendencias_anagram.genruntimeconfig.cache
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\KataAnagram.exe
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\tendencias_anagram.deps.json
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\tendencias_anagram.runtimeconfig.json
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\tendencias_anagram.runtimeconfig.dev.json
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\tendencias_anagram.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\tendencias_anagram.pdb
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\KataAnagram.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\bin\Debug\netcoreapp3.1\KataAnagram.pdb
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\obj\Debug\netcoreapp3.1\tendencias_anagram.csprojAssemblyReference.cache
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\obj\Debug\netcoreapp3.1\tendencias_anagram.csproj.CoreCompileInputs.cache
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\obj\Debug\netcoreapp3.1\tendencias_anagram.AssemblyInfoInputs.cache
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\obj\Debug\netcoreapp3.1\tendencias_anagram.AssemblyInfo.cs
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\obj\Debug\netcoreapp3.1\tendencias_anagram.csproj.CopyComplete
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\obj\Debug\netcoreapp3.1\tendencias_anagram.dll
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\obj\Debug\netcoreapp3.1\tendencias_anagram.pdb
+C:\Code\Tendencias Lab\Practica 6\Git 2\dummy-anagrams\Tests\obj\Debug\netcoreapp3.1\tendencias_anagram.genruntimeconfig.cache
